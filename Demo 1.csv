@@ -1,0 +1,2 @@
+bla,blubb
+asdf,=cmd|' /C start cmd /k more "C:\Users\thomas\Desktop\Datei.txt" '!A1
